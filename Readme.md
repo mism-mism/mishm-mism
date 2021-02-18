@@ -1,9 +1,7 @@
+![mism-mism's GitHub stats](https://github-readme-stats.vercel.app/api?username=mism-mism&hide=contribs,prs&theme=dracula)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mishm-mism&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishm-mism" />
-</a>
+![Used top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mism-mism&layout=compact&hide=c,shaderlab,Perl&theme=dracula)
 
+
+These cards are powered by https://github.com/anuraghazra/github-readme-stats
